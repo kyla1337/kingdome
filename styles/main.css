@@ -1354,7 +1354,7 @@ header.overflow .navbar-brand {
 }
 @media (max-width: 991px) {
   header .navbar-brand img {
-    height: 40px;
+    height: 70px;
     margin-top: 30px;
   }
 }
